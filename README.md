@@ -1,5 +1,5 @@
 # Operation parameters
 
-The operation parameters of a multi-energy microgrid are listed as follow:
+The operation parameters of a multi-energy microgrid are given in this project.
 
-![image-20211027211754023](D:\文档\GitHub\operation-parameters\image-20211027211754023.png)
+ 
